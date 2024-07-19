@@ -1,0 +1,11 @@
+.clicked {
+    color: #FCA000;
+    text-decoration: none;
+}
+.items {
+    color: white;
+    text-decoration: none;
+}
+.items:hover {
+    color: #FCA000;
+}
